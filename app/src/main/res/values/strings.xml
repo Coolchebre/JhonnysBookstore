@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">JhonnysBookstore</string>
+    <string name="textWelcome">Welcome to Jhonny\'s Bookstore</string>
+    <string name="descriptionImage" translatable="false">Book Pile</string>
+    <string name="N">Name</string>
+    <string name="S">Surname</string>
+    <string name="Date">Date of birth</string>
+    <string name="Nation">Nationality</string>
+    <string name="Card">Citizenship card</string>
+    <string name="Number">Phone</string>
+    <string name="Mail">e-mail</string>
+    <string name="A">Address</string>
+    <string name="N2">Name</string>
+    <string name="S2">Surname</string>
+    <string name="Date2">Date of birth</string>
+    <string name="Nation2">Nationality</string>
+    <string name="Card2">Citizenship card</string>
+    <string name="Number2">Phone</string>
+    <string name="Mail2">e-mail</string>
+    <string name="A2">Address</string>
+    <string name="sendButton">Send</string>
+    <string name="radioBut">Personal</string>
+    <string name="radioBut2">Employment</string>
+    <string name="references">Type of references</string>
+    <string name="category">Categories</string>
+    <string name="check1">Romance</string>
+    <string name="check2">Adventure</string>
+    <string name="check3">Fantasy</string>
+    <string name="check4">Terror</string>
+    <string name="check5">Science</string>
+    <string name="check6">Computing</string>
+    <string name="changeColor">Touch to change the color</string>
+</resources>

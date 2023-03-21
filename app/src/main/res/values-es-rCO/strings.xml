@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Librería Jhonny</string>
+    <string name="textWelcome">Bienvenido a la Librería Jhonny</string>
+    <string name="descriptionImage">Book Pile</string>
+    <string name="N">Nombre</string>
+    <string name="S">Apellido</string>
+    <string name="Date">Fecha de nacimiento</string>
+    <string name="Nation">Nacionalidad</string>
+    <string name="Card">Cédula de ciudadanía</string>
+    <string name="Number">Teléfono</string>
+    <string name="Mail">Correo electrónico</string>
+    <string name="A">Dirección</string>
+    <string name="N2">Nombre</string>
+    <string name="S2">Apellido</string>
+    <string name="Date2">Fecha de nacimiento</string>
+    <string name="Nation2">Nacionalidad</string>
+    <string name="Card2">Cédula de ciudadanía</string>
+    <string name="Number2">Teléfono</string>
+    <string name="Mail2">Correo electrónico</string>
+    <string name="A2">Dirección</string>
+    <string name="sendButton">Envíar</string>
+    <string name="radioBut">Personales</string>
+    <string name="radioBut2">Laborales</string>
+    <string name="references">Tipo de referencias</string>
+    <string name="category">Categorías</string>
+    <string name="check1">Romance</string>
+    <string name="check2">Aventura</string>
+    <string name="check3">Fantasía</string>
+    <string name="check4">Terror</string>
+    <string name="check5">Ciencia</string>
+    <string name="check6">Informática</string>
+    <string name="changeColor">Toque aquí para cambiar el color</string>
+</resources>
